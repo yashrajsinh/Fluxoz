@@ -9,7 +9,7 @@ import Foundation
 import SwiftUI
 
 extension Color {
-    //Calling Colortheme for global access 
+    //Calling Colortheme for global access
     static let theme = ColorTheme()
   
 }
